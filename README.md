@@ -164,20 +164,36 @@ const utsav = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=UtsavDungrani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavDungrani&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-
-<br /><br />
-
 <img src="https://streak-stats.demolab.com?user=UtsavDungrani&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 
 <br /><br />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavDungrani&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtsavDungrani&theme=github_dark" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtsavDungrani&theme=github_light" alt="Profile Details" />
+</picture>
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=UtsavDungrani&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtsavDungrani&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtsavDungrani&theme=github_light" alt="Repos per Language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtsavDungrani&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtsavDungrani&theme=github_light" alt="Most Commit Language" />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtsavDungrani&theme=github_dark&utcOffset=5.5" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtsavDungrani&theme=github_light&utcOffset=5.5" alt="Productive Time" />
+</picture>
+
+<br /><br />
+
+<img width="98%" src="https://ghchart.rshah.org/39d353/UtsavDungrani" alt="Contribution Chart" />
 
 </div>
 
