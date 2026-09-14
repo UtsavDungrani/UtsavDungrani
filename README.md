@@ -184,17 +184,6 @@ const utsav = {
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtsavDungrani&theme=github_light" alt="Most Commit Language" />
 </picture>
 
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtsavDungrani&theme=github_dark&utcOffset=5.5" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtsavDungrani&theme=github_light&utcOffset=5.5" alt="Productive Time" />
-</picture>
-
-<br /><br />
-
-<img width="98%" src="https://ghchart.rshah.org/39d353/UtsavDungrani" alt="Contribution Chart" />
-
 </div>
 
 ---
